@@ -1,0 +1,14 @@
+.home {
+    padding: 2rem;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .home h2 {
+    margin: 0;
+  }
+  
+  .home p {
+    margin: 1rem 0 0;
+  }
+  
