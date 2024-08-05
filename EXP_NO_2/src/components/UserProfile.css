@@ -1,0 +1,25 @@
+.user-profile {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    background-color: #f1f1f1;
+  }
+  
+  .profile-card {
+    background-color: #e0f7fa;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+  }
+  
+  .profile-details {
+    margin-top: 1rem;
+    text-align: left;
+  }
+  
+  .profile-details p {
+    margin: 0.5rem 0;
+  }
+  
